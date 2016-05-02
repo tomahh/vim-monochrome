@@ -18,8 +18,9 @@ let g:colors_name = 'monochrome'
 " These commands are generated, see bin/generate.rb.
 hi Normal guifg=LightGray ctermfg=252 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi Cursor guifg=Black ctermfg=16 guibg=LightGray ctermbg=252 gui=NONE cterm=NONE term=NONE
-hi CursorLine guifg=LightGray ctermfg=252 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
-hi CursorLineNr guifg=White ctermfg=15 guibg=#202020 ctermbg=234 gui=bold cterm=bold term=bold
+hi CursorLine guifg=LightGray ctermfg=252 guibg=#262626 ctermbg=235 gui=NONE cterm=NONE term=NONE
+hi CursorLineNr guifg=White ctermfg=15 guibg=#262626 ctermbg=235 gui=bold cterm=bold term=bold
+hi ColorColumn guifg=White ctermfg=15 guibg=#262626 ctermbg=235 gui=bold cterm=bold term=bold
 hi FoldColumn guifg=DarkGray ctermfg=248 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi Folded guifg=LightGray ctermfg=252 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi LineNr guifg=DarkGray ctermfg=248 guibg=#323232 ctermbg=236 gui=NONE cterm=NONE term=NONE
