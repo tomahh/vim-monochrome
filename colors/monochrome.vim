@@ -26,6 +26,7 @@ hi LineNr guifg=DarkGray ctermfg=248 guibg=#323232 ctermbg=236 gui=NONE cterm=NO
 hi Statement guifg=White ctermfg=15 guibg=#202020 ctermbg=234 gui=bold cterm=bold term=bold
 hi PreProc guifg=White ctermfg=15 guibg=#202020 ctermbg=234 gui=bold cterm=bold term=bold
 hi String guifg=#767676 ctermfg=243 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
+hi Character guifg=#767676 ctermfg=243 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi Comment guifg=#737373 ctermfg=243 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi Constant guifg=LightGray ctermfg=252 guibg=#202020 ctermbg=234 gui=NONE cterm=NONE term=NONE
 hi Type guifg=White ctermfg=15 guibg=#202020 ctermbg=234 gui=bold cterm=bold term=bold
